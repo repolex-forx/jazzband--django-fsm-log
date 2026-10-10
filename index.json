@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "django-fsm-log",
+  "versions": [
+    {
+      "commit": "27d6437d089a271c82497c2b8d751244edad090f",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:44:21.256771+00:00"
+    }
+  ]
+}
